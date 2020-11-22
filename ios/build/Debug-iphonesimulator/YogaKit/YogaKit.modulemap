@@ -1,0 +1,12 @@
+module YogaKit {
+  umbrella header "YogaKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+
+module YogaKit.Swift {
+  header "/Users/connorjohnston/demoApps/connor.demo.mobile/ios/build/Debug-iphonesimulator/YogaKit/Swift Compatibility Header/YogaKit-Swift.h"
+  requires objc
+}

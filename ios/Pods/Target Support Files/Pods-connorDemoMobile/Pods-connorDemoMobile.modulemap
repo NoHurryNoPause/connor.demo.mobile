@@ -1,0 +1,6 @@
+module Pods_connorDemoMobile {
+  umbrella header "Pods-connorDemoMobile-umbrella.h"
+
+  export *
+  module * { export * }
+}

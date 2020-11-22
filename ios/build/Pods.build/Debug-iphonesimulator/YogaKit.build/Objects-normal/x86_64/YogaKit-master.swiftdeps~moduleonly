@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.3.1 (swiftlang-1200.0.41 clang-1200.0.32.8)"
+options: "d60963911b09d8d0ce65427985620d12"
+build_time: [1606002462, 890501000]
+inputs:
+  "/Users/connorjohnston/demoApps/connor.demo.mobile/ios/Pods/YogaKit/YogaKit/Source/YGLayoutExtensions.swift": [1606001394, 445170396]

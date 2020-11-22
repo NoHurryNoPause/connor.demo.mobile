@@ -1,0 +1,35 @@
+dependencies: \
+  /Users/connorjohnston/demoApps/connor.demo.mobile/ios/Pods/Flipper/xplat/Flipper/CertificateUtils.cpp \
+  /Users/connorjohnston/demoApps/connor.demo.mobile/ios/Pods/Target\ Support\ Files/Flipper/Flipper-prefix.pch \
+  /Users/connorjohnston/demoApps/connor.demo.mobile/ios/Pods/Flipper/xplat/Flipper/CertificateUtils.h \
+  /Users/connorjohnston/demoApps/connor.demo.mobile/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/pem.h \
+  /Users/connorjohnston/demoApps/connor.demo.mobile/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/e_os2.h \
+  /Users/connorjohnston/demoApps/connor.demo.mobile/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/opensslconf.h \
+  /Users/connorjohnston/demoApps/connor.demo.mobile/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/opensslconf-x86_64.h \
+  /Users/connorjohnston/demoApps/connor.demo.mobile/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/bio.h \
+  /Users/connorjohnston/demoApps/connor.demo.mobile/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/crypto.h \
+  /Users/connorjohnston/demoApps/connor.demo.mobile/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/stack.h \
+  /Users/connorjohnston/demoApps/connor.demo.mobile/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/safestack.h \
+  /Users/connorjohnston/demoApps/connor.demo.mobile/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/opensslv.h \
+  /Users/connorjohnston/demoApps/connor.demo.mobile/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/ossl_typ.h \
+  /Users/connorjohnston/demoApps/connor.demo.mobile/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/symhacks.h \
+  /Users/connorjohnston/demoApps/connor.demo.mobile/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/evp.h \
+  /Users/connorjohnston/demoApps/connor.demo.mobile/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/objects.h \
+  /Users/connorjohnston/demoApps/connor.demo.mobile/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/obj_mac.h \
+  /Users/connorjohnston/demoApps/connor.demo.mobile/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/asn1.h \
+  /Users/connorjohnston/demoApps/connor.demo.mobile/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/bn.h \
+  /Users/connorjohnston/demoApps/connor.demo.mobile/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/x509.h \
+  /Users/connorjohnston/demoApps/connor.demo.mobile/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/buffer.h \
+  /Users/connorjohnston/demoApps/connor.demo.mobile/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/ec.h \
+  /Users/connorjohnston/demoApps/connor.demo.mobile/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/ecdsa.h \
+  /Users/connorjohnston/demoApps/connor.demo.mobile/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/ecdh.h \
+  /Users/connorjohnston/demoApps/connor.demo.mobile/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/rsa.h \
+  /Users/connorjohnston/demoApps/connor.demo.mobile/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/dsa.h \
+  /Users/connorjohnston/demoApps/connor.demo.mobile/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/dh.h \
+  /Users/connorjohnston/demoApps/connor.demo.mobile/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/sha.h \
+  /Users/connorjohnston/demoApps/connor.demo.mobile/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/x509_vfy.h \
+  /Users/connorjohnston/demoApps/connor.demo.mobile/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/lhash.h \
+  /Users/connorjohnston/demoApps/connor.demo.mobile/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/pkcs7.h \
+  /Users/connorjohnston/demoApps/connor.demo.mobile/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/pem2.h \
+  /Users/connorjohnston/demoApps/connor.demo.mobile/ios/Pods/Headers/Public/Flipper-Folly/folly/portability/Fcntl.h \
+  /Users/connorjohnston/demoApps/connor.demo.mobile/ios/Pods/Headers/Public/Flipper-Folly/folly/portability/SysStat.h

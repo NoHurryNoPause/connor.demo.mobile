@@ -1,0 +1,35 @@
+dependencies: \
+  /Users/connorjohnston/demoApps/connor.demo.mobile/node_modules/react-native/React/Base/Surface/SurfaceHostingView/RCTSurfaceHostingProxyRootView.mm \
+  /Users/connorjohnston/demoApps/connor.demo.mobile/ios/Pods/Target\ Support\ Files/React-Core/React-Core-prefix.pch \
+  /Users/connorjohnston/demoApps/connor.demo.mobile/node_modules/react-native/React/Base/Surface/SurfaceHostingView/RCTSurfaceHostingProxyRootView.h \
+  /Users/connorjohnston/demoApps/connor.demo.mobile/ios/Pods/Headers/Private/React-Core/React/RCTRootView.h \
+  /Users/connorjohnston/demoApps/connor.demo.mobile/ios/Pods/Headers/Private/React-Core/React/RCTBridge.h \
+  /Users/connorjohnston/demoApps/connor.demo.mobile/ios/Pods/Headers/Private/React-Core/React/RCTBridgeDelegate.h \
+  /Users/connorjohnston/demoApps/connor.demo.mobile/ios/Pods/Headers/Private/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/connorjohnston/demoApps/connor.demo.mobile/ios/Pods/Headers/Private/React-Core/React/RCTDefines.h \
+  /Users/connorjohnston/demoApps/connor.demo.mobile/ios/Pods/Headers/Private/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/connorjohnston/demoApps/connor.demo.mobile/ios/Pods/Headers/Private/React-Core/React/RCTPackagerConnection.h \
+  /Users/connorjohnston/demoApps/connor.demo.mobile/ios/Pods/Headers/Private/React-Core/React/RCTBridgeModule.h \
+  /Users/connorjohnston/demoApps/connor.demo.mobile/ios/Pods/Headers/Private/React-Core/React/RCTFrameUpdate.h \
+  /Users/connorjohnston/demoApps/connor.demo.mobile/ios/Pods/Headers/Private/React-Core/React/RCTInvalidating.h \
+  /Users/connorjohnston/demoApps/connor.demo.mobile/node_modules/react-native/React/Base/Surface/SurfaceHostingView/RCTSurfaceHostingView.h \
+  /Users/connorjohnston/demoApps/connor.demo.mobile/ios/Pods/Headers/Private/React-Core/React/RCTSurfaceDelegate.h \
+  /Users/connorjohnston/demoApps/connor.demo.mobile/ios/Pods/Headers/Private/React-Core/React/RCTSurfaceStage.h \
+  /Users/connorjohnston/demoApps/connor.demo.mobile/ios/Pods/Headers/Private/React-Core/React/RCTSurfaceSizeMeasureMode.h \
+  /Users/connorjohnston/demoApps/connor.demo.mobile/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/connorjohnston/demoApps/connor.demo.mobile/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/connorjohnston/demoApps/connor.demo.mobile/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/connorjohnston/demoApps/connor.demo.mobile/ios/Pods/Headers/Private/React-Core/React/RCTAssert.h \
+  /Users/connorjohnston/demoApps/connor.demo.mobile/ios/Pods/Headers/Private/React-Core/React/RCTUtils.h \
+  /Users/connorjohnston/demoApps/connor.demo.mobile/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Users/connorjohnston/demoApps/connor.demo.mobile/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/connorjohnston/demoApps/connor.demo.mobile/node_modules/react-native/React/Base/RCTRootContentView.h \
+  /Users/connorjohnston/demoApps/connor.demo.mobile/ios/Pods/Headers/Private/React-Core/React/RCTView.h \
+  /Users/connorjohnston/demoApps/connor.demo.mobile/ios/Pods/Headers/Private/React-Core/React/RCTBorderStyle.h \
+  /Users/connorjohnston/demoApps/connor.demo.mobile/ios/Pods/Headers/Private/React-Core/React/RCTComponent.h \
+  /Users/connorjohnston/demoApps/connor.demo.mobile/ios/Pods/Headers/Private/React-Core/React/RCTPointerEvents.h \
+  /Users/connorjohnston/demoApps/connor.demo.mobile/node_modules/react-native/React/Base/RCTRootViewDelegate.h \
+  /Users/connorjohnston/demoApps/connor.demo.mobile/node_modules/react-native/React/Base/Surface/RCTSurface.h \
+  /Users/connorjohnston/demoApps/connor.demo.mobile/node_modules/react-native/React/Views/UIView+React.h \
+  /Users/connorjohnston/demoApps/connor.demo.mobile/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
+  /Users/connorjohnston/demoApps/connor.demo.mobile/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h
